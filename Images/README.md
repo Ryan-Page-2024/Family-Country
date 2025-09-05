@@ -59,7 +59,7 @@ The closing slide serves as a thank you message and a wrap-up for the presentati
 <br>
 
 # File Name: Themes
-Table categorizing thematic elements in song lyrics, outlining key themes and their descriptions.
+Table categorizing thematic elements in song lyrics, outlining key themes and their descriptions
 
 <br>
 
