@@ -1,20 +1,18 @@
-The featured dataset spans five tabs:
+The featured dataset includes the following core tabs:
 
 ## 1. Themes: 
-This analysis categorizes themes and definitions, focusing on Love and Relationships.
-<br> Law and Justice, as well as Animals are themes not present in the playlist.
+This analysis categorizes themes and definitions, focusing on Family, Friends, and Roots.
+<br> All themes are present in this playlist.
 
 ## 2. Featured Songs: 
-This tab presents an analysis of song lyrics, focusing on Love and Relationships.
-It includes metrics such as the total number of lines related to love, and whether the lines convey positive or negative sentiment.
-Some songs lean heavily towards negative sentiment (e.g., Whiskey Glasses, Hurricane).
-Other songs are overwhelmingly positive (e.g., Brand New Man, Sangria).
-Several songs contain a high proportion of love-related lyrics, indicating a strong thematic focus on romance and relationships.
+This tab presents an analysis of song lyrics, focusing on Family, Friends, and Roots (FFR).
+It includes metrics such as the total number of lines related to FFR, and whether the lines convey positive or negative sentiment.
+Some songs lean heavily towards negative sentiment (e.g., Fancy, I Want to go Home).
+Other songs are overwhelmingly positive (e.g., Buy Dirt, Chicken Fried).
+Several songs contain a high proportion of FFR-related lyrics, indicating a strong thematic focus on Family, Friends, and Roots.
 
 ## 3. Touring Artists:
-This tab outlines concert tour schedules for Luke Combs and Post Malone in 2025, listing dates, locations, and the respective performing artist.
-Luke Combs performances cover cities like Fort lauderdale, Boston, and Miramar Beach.
-Post Malone has stops in Major U.S. cities like Las Vegas, Dallas, New York, and Miami.
+This tab outlines concert tour schedules for Oliver Anthony and the Zac Brown Band in 2025, listing dates, locations, and the respective performing artist.
 
 ## 4. Lyrics_in_Context:
 This tab provides a lyric analysis for songs, featuring: <br>
@@ -29,3 +27,10 @@ This tab presents classification and sentiment analysis for songs at the line le
 <br> Metadata such as stanza and line numbers
 
 <br> This structured breakdown provides insights into thematic trends and sentiment distribution within the lyrics.
+
+
+
+
+
+
+
