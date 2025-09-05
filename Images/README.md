@@ -64,7 +64,7 @@ Table categorizing thematic elements in song lyrics, outlining key themes and th
 <br>
 
 # File Name: Timeline
-Visualization showcasing the evolution of Country songs from 1968 to 2024.
+Visualization showcasing the evolution of Country songs from 1968 to 2024
 
 <br>
 
@@ -74,6 +74,6 @@ Tour schedule highlights 2025 concert dates and locations for Oliver Anthony and
 <br>
 
 # File Name: Touring Numbers
-This table compares Oliver Anthony and the Zac Brown Band's unique tour stops across States, noting that there are no overlaps between the two artists.
+This table compares Oliver Anthony and the Zac Brown Band's unique tour stops across States, noting that there are no overlaps between the two artists
 
 <br>
